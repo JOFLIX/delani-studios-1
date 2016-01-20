@@ -1,3 +1,7 @@
+.home{
+    background-image: url(/assets/h_img.jpg);
+    align-content: center;
+}
 .phead{
     text-align: center;
     font-size: 36px;
