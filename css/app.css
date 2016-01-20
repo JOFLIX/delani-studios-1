@@ -7,5 +7,12 @@
     font-size: 36px;
 }
 .doimg{
-    p
+    height: 6em;
+     display: flex;
+  align-items: center;
+  justify-content: center ;
+
+}
+dotext{
+    text-align: center;
 }
