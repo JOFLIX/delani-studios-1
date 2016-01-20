@@ -1,6 +1,7 @@
 .home{
     background-image: url(/assets/h_img.jpg);
     align-content: center;
+    text-align: center;
 }
 .phead{
     text-align: center;
